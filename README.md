@@ -1,6 +1,8 @@
 # Object-Replacement-using-text-prompts
 **Overview**
-This project demonstrates an automated pipeline for object replacement in images using cutting-edge deep learning models. The implementation integrates YOLOv8 for object detection, SAM (Segment Anything Model) for precise mask generation, and Stable Diffusion for inpainting and object replacement.
+
+1. This project demonstrates an automated pipeline for object replacement in images using cutting-edge deep learning models.
+2. The implementation integrates YOLOv8 for object detection, SAM (Segment Anything Model) for precise mask generation, and Stable Diffusion for inpainting and object replacement.
 
 **Features**
 1. Automatic Mask Generation: Generates masks for objects dynamically based on user-specified prompts, ensuring no manual masking is required.
