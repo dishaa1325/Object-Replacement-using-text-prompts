@@ -10,7 +10,8 @@
 3. Background Replacement: Demonstrates the capability of replacing entire backgrounds in images using SAM + Stable Diffusion.
 4. Interactive Gradio Interface: Allows users to upload images, specify objects to replace, and provide replacement prompts.
 
-**Run the Pipeline:**
+**Run the Pipeline**
 
-Colab Notebook: Load the provided Colab notebook, execute the cells in sequence, and view the outputs.
-Gradio Interface: Run the Gradio-based interactive app to test the pipeline with custom images and prompts.
+1. Colab Notebook: Load the provided Colab notebook, execute the cells in sequence, and view the outputs.
+2. Gradio Interface: Run the Gradio-based interactive app to test the pipeline with custom images and prompts.
+
